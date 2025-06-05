@@ -1,0 +1,360 @@
+Print "Hello, World!"
+
+Display ASCII value of a character
+
+Swap two numbers using a temporary variable
+
+Swap two numbers without using a temporary variable
+
+Calculate the sum of two numbers
+
+Calculate the product of two numbers
+
+Compute the average of three numbers
+
+Convert Celsius to Fahrenheit
+
+Convert Fahrenheit to Celsius
+
+Calculate the area of a rectangle
+
+Calculate the area of a circle
+
+Calculate the perimeter of a square
+
+Compute simple interest
+
+Compute compound interest
+
+Check whether a number is even or odd
+
+Check whether a number is positive, negative, or zero
+
+Find the largest of two numbers
+
+Find the smallest of two numbers
+
+Calculate the square of a number
+
+Calculate the cube of a number
+
+🔁 02_Control_Statements/Practice
+Check if a number is even or odd using if-else
+
+Determine if a year is a leap year
+
+Find the largest among three numbers
+
+Check if a character is a vowel or consonant
+
+Implement a simple calculator using switch-case
+
+Check if a number is positive, negative, or zero
+
+Determine grade based on marks
+
+Check if a character is uppercase or lowercase
+
+Check if a number is divisible by 5 and 11
+
+Check if a character is an alphabet, digit, or special character
+
+Find the roots of a quadratic equation
+
+Check if a number is a palindrome
+
+Check if a number is an Armstrong number
+
+Check if a number is a perfect number
+
+Check if a number is a strong number
+
+Check if a number is a Harshad number
+
+Check if a number is a spy number
+
+Check if a number is a magic number
+
+Check if a number is a neon number
+
+Check if a number is a duck number
+
+🔄 03_Loops/Practice
+Print numbers from 1 to N using a for loop
+
+Print even numbers between 1 and N
+
+Print odd numbers between 1 and N
+
+Calculate the sum of first N natural numbers
+
+Calculate the factorial of a number
+
+Print the multiplication table of a number
+
+Print Fibonacci series up to N terms
+
+Check if a number is prime
+
+Print all prime numbers between 1 and N
+
+Calculate the sum of digits of a number
+
+Reverse a number
+
+Check if a number is a palindrome
+
+Print patterns like pyramid, inverted pyramid, etc.
+
+Print Pascal's triangle
+
+Print Floyd's triangle
+
+Print a diamond pattern
+
+Print a hollow square pattern
+
+Print a right-angled triangle pattern
+
+Print a hollow right-angled triangle pattern
+
+Print a butterfly pattern
+
+🧮 04_Functions/Practice
+Write a function to add two numbers
+
+Write a function to find the factorial of a number
+
+Write a function to check if a number is prime
+
+Write a function to calculate the power of a number
+
+Write a function to find the greatest common divisor (GCD) of two numbers
+
+Write a function to find the least common multiple (LCM) of two numbers
+
+Write a function to check if a number is a palindrome
+
+Write a function to check if a number is an Armstrong number
+
+Write a function to convert Celsius to Fahrenheit
+
+Write a function to convert Fahrenheit to Celsius
+
+Write a function to calculate the area of a circle
+
+Write a function to calculate the area of a rectangle
+
+Write a function to calculate the area of a triangle
+
+Write a function to calculate the simple interest
+
+Write a function to calculate the compound interest
+
+Write a function to find the maximum of three numbers
+
+Write a function to find the minimum of three numbers
+
+Write a recursive function to find the factorial of a number
+
+Write a recursive function to find the nth Fibonacci number
+
+Write a recursive function to calculate the sum of digits of a number
+
+05_Arrays/Practice
+Find the minimum element in an array
+
+Reverse an array
+
+Search for an element in an array (Linear Search)
+
+Search for an element in a sorted array (Binary Search)
+
+Sort an array (Bubble Sort)
+
+Sort an array (Selection Sort)
+
+Insert an element at a specific position in an array
+
+Delete an element from an array
+
+Copy elements from one array to another
+
+Merge two arrays
+
+Count even and odd elements in an array
+
+Find the frequency of each element in an array
+
+Print duplicate elements in an array
+
+Remove duplicate elements from an array
+
+Find the second largest element in an array
+
+Rotate an array to the left/right by N positions
+
+🧩 06_Strings/Practice
+Find the length of a string (without using strlen)
+
+Copy one string to another (without strcpy)
+
+Concatenate two strings
+
+Compare two strings
+
+Convert lowercase string to uppercase
+
+Convert uppercase string to lowercase
+
+Count vowels and consonants in a string
+
+Count words in a string
+
+Reverse a string
+
+Check if a string is palindrome
+
+Remove all white spaces from a string
+
+Find the frequency of characters in a string
+
+Replace a substring in a string
+
+Check whether a substring exists
+
+Toggle case of each character in a string
+
+Find the longest word in a sentence
+
+Sort characters of a string
+
+Find the first non-repeating character
+
+Check if two strings are anagrams
+
+Implement custom strstr() function
+
+🔧 07_Pointers/Practice
+Print address of a variable using pointer
+
+Access value using pointer
+
+Swap two numbers using pointers
+
+Find the length of a string using pointer
+
+Reverse a string using pointers
+
+Copy string using pointers
+
+Add two numbers using pointer
+
+Pointer to array: print elements using pointer
+
+Pass pointer to a function
+
+Return pointer from a function
+
+Sum of array elements using pointers
+
+Find max element in array using pointer
+
+Dynamic memory allocation using malloc()
+
+Dynamic memory allocation using calloc()
+
+Resize memory using realloc()
+
+Free memory using free()
+
+Double pointer usage (int **ptr)
+
+Pointer to a function
+
+Array of pointers
+
+String array using pointer to pointer
+
+📁 08_Structures_Unions/Practice
+Define and print structure info (student details)
+
+Store and display data of N students
+
+Calculate average marks using structure
+
+Pass structure to function
+
+Return structure from function
+
+Array of structures (Employee database)
+
+Nested structures
+
+Compare two structure variables
+
+Use typedef with structure
+
+Structure pointer and access using ->
+
+Calculate distance using structure (feet/inch)
+
+Implement a complex number add using struct
+
+Store book records using structure
+
+Store and sort employee records by salary
+
+Union vs Structure memory usage demo
+
+Update a record inside array of structures
+
+Search a record by ID in structure array
+
+Write a mini billing system using struct
+
+Serialize and deserialize structure data to file
+
+Structure containing arrays and strings
+
+📂 09_File_Handling/Practice
+Open a file and write text into it
+
+Read from a text file and print content
+
+Count characters in a file
+
+Count words in a file
+
+Copy content from one file to another
+
+Append text to an existing file
+
+Write and read numbers from a file
+
+Check if file exists or not
+
+Convert file content to uppercase
+
+Remove all spaces from file content
+
+Count lines in a file
+
+Find and replace a word in a file
+
+Merge two files into a third file
+
+Display specific line from file
+
+Write an array to a file and read back
+
+Encrypt and decrypt file content (basic shift cipher)
+
+Write structure data to binary file (fwrite)
+
+Read structure data from binary file (fread)
+
+Sort file lines alphabetically
+
+Implement a mini address book using files
+
