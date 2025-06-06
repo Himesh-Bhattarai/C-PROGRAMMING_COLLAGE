@@ -9,5 +9,5 @@ scanf("%f%f", &length, &breadth)0;
  float area = length * breadth;
 printf("Area of rectangle is:%f " area);
 
-return length * breadth;`
+return length * breadth;
 }
