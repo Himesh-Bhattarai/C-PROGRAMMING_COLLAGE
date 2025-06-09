@@ -10,6 +10,6 @@ return 0;
 }
 
 //function 
-void areaORectangle(int length, int breadth){
+void area(int length, int breadth){
     printf("Area of rectangle is %d \n", length * breadth)
 }
