@@ -38,47 +38,6 @@ Calculate the square of a number
 
 Calculate the cube of a number
 
-🔁 02_Control_Statements/Practice
-Check if a number is even or odd using if-else
-
-Determine if a year is a leap year
-
-Find the largest among three numbers
-
-Check if a character is a vowel or consonant
-
-Implement a simple calculator using switch-case
-
-Check if a number is positive, negative, or zero
-
-Determine grade based on marks
-
-Check if a character is uppercase or lowercase
-
-Check if a number is divisible by 5 and 11
-
-Check if a character is an alphabet, digit, or special character
-
-Find the roots of a quadratic equation
-
-Check if a number is a palindrome
-
-Check if a number is an Armstrong number
-
-Check if a number is a perfect number
-
-Check if a number is a strong number
-
-Check if a number is a Harshad number
-
-Check if a number is a spy number
-
-Check if a number is a magic number
-
-Check if a number is a neon number
-
-Check if a number is a duck number
-
 🔄 03_Loops/Practice
 Print numbers from 1 to N using a for loop
 

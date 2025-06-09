@@ -8,7 +8,7 @@ int main(){
     printf("Enter value for y: \n");
     scanf("%d", &y);
 
-    printf("value of x and y is: %d and %d", x,y;)
+    printf("value of x and y is: %d and %d", x,y);
 
     // sum of two numbers?
     printf("Sun of x and y is: ")
