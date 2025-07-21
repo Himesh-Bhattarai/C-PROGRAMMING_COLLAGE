@@ -11,7 +11,7 @@ char user_string[50];
 //Ask for sentences or a string
 printf("Enter a string: \n");
 //store into variable
-scanf(" %[^\n]", user_string);
+scanf(" %[^\n]", &user_string);
 //print the string before conversion
 printf("String before conversion id %s\n", user_string);
 //call the function
